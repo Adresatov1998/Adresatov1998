@@ -59,7 +59,7 @@
 
 ### 📫 How to Reach Me
 
-- Telegram: [Your Telegram Handle](https://t.me/Adresatov1998)
+- Telegram: [Adresatov1998](https://t.me/Adresatov1998)
 - Email: **server@adresatov.ru**
 
 <p align="center">
