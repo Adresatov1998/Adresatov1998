@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Nikita Adresatov 👋</h1>
 <h3 align="center">A Passionate Software Developer from Russia</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7A00&center=true&vCenter=true&width=435&lines=Python+Enthusiast;PHP+Developer;Java+%26+Kotlin+Coder;Open-Source+Lover;Fox+Admirer+🦊" alt="Typing SVG" /></a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -63,9 +59,8 @@
 
 ### 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Handle](https://linkedin.com/in/your-profile)
-- Telegram: [Your Telegram Handle](https://t.me/your_handle)
-- Email: **your.email@domain.com**
+- Telegram: [Your Telegram Handle](https://t.me/Adresatov1998)
+- Email: **server@adresatov.ru**
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
