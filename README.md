@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A Passionate Software Developer from [Your Country/City]</h3>
+<h1 align="center">Hi there, I'm Nikita Adresatov 👋</h1>
+<h3 align="center">A Passionate Software Developer from Russia</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7A00&center=true&vCenter=true&width=435&lines=Python+Enthusiast;PHP+Developer;Java+%26+Kotlin+Coder;Open-Source+Lover;Fox+Admirer+🦊" alt="Typing SVG" /></a>
