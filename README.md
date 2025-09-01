@@ -5,8 +5,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **...** *(e.g., a cool Kotlin Android app, a Python automation tool)*
-- 🌱 I’m currently learning **...** *(e.g., Go, React, Machine Learning)*
+- 🔭 I’m currently working on **FlowChat App,EarthCore Technologies**
+- 🌱 I’m currently learning **C# C++ C**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **Python, PHP, Java, Kotlin, and software design.**
 - ⚡ Fun fact: I have a huge soft spot for foxes! They're clever, adaptable, and awesome. 🦊
